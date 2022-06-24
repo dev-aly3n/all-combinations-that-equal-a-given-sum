@@ -1,0 +1,10 @@
+section.samples {
+    margin-top: 20px;
+}
+
+section.samples .ms-Button, section.setup .ms-Button {
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    min-width: 80px;
+}
